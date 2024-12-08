@@ -1,6 +1,6 @@
 ![Shopco Screenshot](/public/images/coverSS.png)
 
-# SHOP.CO - E-Commerce Clothing Website 🛍️ by Future-Rafay 
+# SHOP.CO - E-Commerce Clothing Website 🛍️ by Muhammad Jamil 
 
 SHOP.CO is a modern e-commerce platform that helps users find clothes that match their style. Built with sleek UI/UX and a responsive design, the platform ensures a seamless shopping experience.
 
@@ -31,7 +31,7 @@ SHOP.CO is a modern e-commerce platform that helps users find clothes that match
 ## Demo  
 
 You can explore the live demo here:  
-[**Shopco Live Demo**](https://hackathon-ui-ux-8-dec.vercel.app/)
+[**Shopco Live Demo**]()
 
 ---
 
@@ -60,5 +60,5 @@ You can explore the live demo here:
 
 ### Clone the Repository:  
 ```bash
-git clone https://github.com/your-username/shopco.git
+git clone 
 cd shopco
